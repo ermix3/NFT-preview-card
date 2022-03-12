@@ -23,13 +23,19 @@ Here See:
 -  hover states for interactive elements
 
 ### Screenshot
+* Desktop view
+![Desktop](assets/images/d1.png)
 
-![](./screenshot.jpg)
+* Mobile view
+![Mobile](assets/images/m1.png)
+
+* Activite state view
+![Activite](assets/images/a1.jpg)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Go solution here](https://github.com/ermix3/NFT-preview-card)
+- Live Site URL: [Go live site here](https://ermix-nft-card.netlify.app/)
 
 ## My process
 
